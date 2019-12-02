@@ -1,35 +1,35 @@
 # Python-Interview-Practice
 A collection of technical interview tasks completed in Python 3.5
 
-Memotization Task:
+###### Memotization Task:
 
 hash_table_0.py - FIFO / Hash table / O(1)
 
 FINAL: hash_table_1.py - Doubly linked list / Hash table / O(1)
 
-Rotating 2d array clockwise:
+###### Rotating 2d array clockwise:
 
 rotate_2d_array.py
 
-All possible combinations of change:
+###### All possible combinations of change:
 
 coin_change.py
 
-Adding multiple numbers from input:
+###### Adding multiple numbers from input:
 
 add.py
 
-Exceptions and error handling:
+###### Exceptions and error handling:
 
-Map object:
+###### Map object:
 
-Binary Search:
+###### Binary Search:
 
-Sorting:
+###### Sorting:
 
-Hashing:
+###### Hashing:
 
-Breadth/depth first search:
+###### Breadth/depth first search:
 
-Binary tree:
+###### Binary tree:
 
