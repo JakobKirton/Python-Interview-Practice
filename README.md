@@ -15,6 +15,10 @@ All possible combinations of change:
 
 coin_change.py
 
+Adding multiple numbers from input:
+
+add.py
+
 Exceptions and error handling:
 
 Map object:
