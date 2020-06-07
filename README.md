@@ -19,17 +19,5 @@ coin_change.py
 
 add.py
 
-###### Exceptions and error handling:
 
-###### Map object:
-
-###### Binary Search:
-
-###### Sorting:
-
-###### Hashing:
-
-###### Breadth/depth first search:
-
-###### Binary tree:
 
